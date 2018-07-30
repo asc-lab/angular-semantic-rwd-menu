@@ -3,7 +3,7 @@ RWD Menu with **Angular** and **Semantic UI**.
 
 ## Example
 <p align="center">
-    <img alt="Menu" src="https://raw.githubusercontent.com/asc-lab/angular-semantic-rwd-menu/master/images/menu.gif" />
+    <img alt="Menu" src="https://raw.githubusercontent.com/asc-lab/angular-semantic-rwd-menu/master/menu.gif" />
 </p>
 
 ## Run project
